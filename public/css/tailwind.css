@@ -568,10 +568,6 @@ video {
   display: flex;
 }
 
-.inline-flex {
-  display: inline-flex;
-}
-
 .hidden {
   display: none;
 }
@@ -831,10 +827,6 @@ video {
 
 .pb-6 {
   padding-bottom: 1.5rem;
-}
-
-.pl-16 {
-  padding-left: 4rem;
 }
 
 .pl-8 {
@@ -1153,6 +1145,10 @@ video {
   .lg\:px-8 {
     padding-left: 2rem;
     padding-right: 2rem;
+  }
+
+  .lg\:pl-16 {
+    padding-left: 4rem;
   }
 
   .lg\:pt-56 {
